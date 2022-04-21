@@ -1,0 +1,12 @@
+.my__link {
+    color: #fff;
+    text-decoration: none;
+    height: 36px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.my__link__mob {
+    color: #0000FF;
+    text-decoration: none;
+    text-align: center;
+}
